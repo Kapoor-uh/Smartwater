@@ -13,5 +13,5 @@ def getRainfallPumpingOutput(cursor, pump, hourOfTheDayStart, hourOfTheDayEnd, t
       AND pumps.hour >= %d AND pumps.hour <= %d
       AND pumps.average_output > 0
     GROUP BY pumps.station,datepart(yy,pumps.date_from),datepart(mm,pumps.date_from),datepart(dd,pumps.date_from);
-    """ % (timeWindowStart, timeWindowEnd, pump,hourOfTheDayStart,hourOfTheDayEnd))
+    """ % (timeWindowEnd, timeWindowStart, pump,hourOfTheDayStart,hourOfTheDayEnd)
   return cursor
