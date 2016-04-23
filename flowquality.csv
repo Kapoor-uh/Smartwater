@@ -1,0 +1,534 @@
+Station,Name,Good,Uncertain,Weak
+0005,Viikinmäki,,,1
+JVP1011,Savila,,,1
+JVP1012,Kulosaari,,,1
+JVP1013,Katajanokka,,,1
+JVP1014,Siltavuori,,,1
+JVP1015,Näkinkuja,1,,
+JVP1016,Eteläsatama,,,1
+JVP1017,Hanasaari,,,1
+JVP1018,Porthaninrinne,,,1
+JVP1019,Purjehtijankuja,,,1
+JVP1020,Suutarila,1,,
+JVP1021,Siltamäki,1,,
+JVP1022,Paloheinä,,,1
+JVP1023,Pukinmäki,1,,
+JVP1024,Ala-Tikkurila,1,,
+JVP1025,Jakomäki,,,1
+JVP1026,Puistola,,,1
+JVP1027,Tapanila,,,1
+JVP1028,Malmi,,,
+JVP1031,Keravanjoki,,,1
+JVP1033,Vuosaari P5,1,,
+JVP1036,Mellunmäki,1,,
+JVP1037,Neulastie,1,,
+JVP1038,Rastila,,,1
+JVP1039,Lassila,,,1
+JVP1040,Hässelby,1,,
+JVP1041,Seurasaarentie,1,,
+JVP1042,Sompasaari,1,,
+JVP1043,Marjaniemi,,,1
+JVP1045,Tammisalo,,,1
+JVP1046,Päätie,,,1
+JVP1047,Yläfallintie,,,1
+JVP1050,Kuusisaarentie,,,1
+JVP1051,Kuusiniementie,,,1
+JVP1052,Munkkiniemenaukio,,,1
+JVP1053,Munkkiniemenranta,,,1
+JVP1054,Maununneva,1,,1
+JVP1056,Kaitalahdentie,,,1
+JVP1057,Meilahti,1,,
+JVP1058,Rälssitie,,,1
+JVP1059,Luoteisväylä,,,1
+JVP1060,Sotkakuja,,,1
+JVP1061,Heporauta,,,1
+JVP1062,Nahkahousu,,,1
+JVP1063,Lauttasaarentie,,,1
+JVP1064,Fallpakka,,,1
+JVP1065,Laajasalo,1,,
+JVP1066,Yliskylä,,,1
+JVP1067,Savela,1,,
+JVP1068,Kivikko,,,1
+JVP1069,Mäntymäki,,1,
+JVP1072,Korkeasaari 1,1,,
+JVP1073,Korkeasaari 2,,,1
+JVP1074,Mustikkamaa,,,1
+JVP1075,Kalasatama,,,1
+JVP1076,Yhdysranta,1,,
+JVP1077,Vuoranta,1,,
+JVP1078,Kallalahti,1,,
+JVP1079,Lähdelahti,1,,
+JVP1080,Ramsinkannas,1,,
+JVP1081,Kaskisaari,1,,
+JVP1082,Koivusaari,,,1
+JVP1083,Hevosalmi,,,1
+JVP1088,Suomenlinna,,,1
+JVP1090,Susisaari,,,1
+JVP1091,Kustaanmiekka,,,1
+JVP1092,Kurkimäki,,,1
+JVP1093,Hietasaarenkatu,1,,
+JVP1096,Porttirinne,1,,
+JVP1100,Heikinlaakso,,,1
+JVP1102,Liusketie,,,1
+JVP1105,Säynäskuja,1,,
+JVP1108,Länsi-Jollas,,,1
+JVP1114,Iso-Musta,,,1
+JVP1115,Keski-Jollas,1,,
+JVP1116,Turunlinnantie,1,,
+JVP1117,Varvilahti,,,1
+JVP1119,Hopeakivi,,,1
+JVP1120,Pikku-Musta,,,1
+JVP1122,Hepokalliontie,1,,
+JVP1123,Kissalaakso,,,1
+JVP1125,Rattitie,,,1
+JVP1126,Autotallintie,,,1
+JVP1127,Santakatu,,,1
+JVP1131,Kytkintie 1,,,1
+JVP1132,Tilkantori,,,1
+JVP1134,Ramsinniementie,1,,
+JVP1135,Kivikon asuinalue,,,1
+JVP1136,Selkämerenpiha,1,,
+JVP1137,Vattuniemenkuja,1,,
+JVP1138,Hiekkajaalan puisto,,,1
+JVP1140,Virepolku,,,1
+JVP1141,Tilkankuja,,,1
+JVP1142,Viikintie,,,1
+JVP1145,Jäähdytintie,,,1
+JVP1146,Jarrutie 1,,,1
+JVP1148,Laivanrakentaja,1,,
+JVP1149,Killingholma,,,1
+JVP1150,Jarrutie 2,,,1
+JVP1151,Jaalarannanpuisto,,,1
+JVP1153,Kytkintie 2,,,1
+JVP1154,Puuskarinne,,,1
+JVP1156,Tulvaniitynpolku,,,1
+JVP1157,Tilanhoitajan kaari,,,1
+JVP1158,Norkkokuja,,,1
+JVP1159,Metsäpirtti,1,,
+JVP1160,Suolakivenkatu,,,1
+JVP1161,Kellosaarenranta,,,1
+JVP1162,Fallkulla,1,,
+JVP1163,Vuotie,,,1
+JVP1164,Latokartano,1,,
+JVP1165,Kultahiekka,1,,
+JVP1166,Kulos.kartano,1,,
+JVP1167,Meri Perttilä,,,1
+JVP1168,Matosaarenniemi,,,1
+JVP1169,Viikinojanpuisto,,1,
+JVP1170,Salmisaarenranta,,,1
+JVP1171,Majakanvartijankatu,,1,
+JVP1172,Kuuluttajankatu,,1,
+JVP1173,Santahamina,,,1
+JVP1174,Kadettikoulu,,,1
+JVP1175,Jätkäsaarenlaituri,1,,
+JVP1176,Leonkatu,,1,
+JVP1177,Pikitehtaankatu,,1,
+JVP1178,Palstakuja,,,1
+JVP1179,Heinäsarankaari,1,,
+JVP1180,Poikasaartenpolku,1,,
+JVP1181,Perintökaarenpolku,1,,
+JVP1182,Mellinintie,1,,
+JVP1184,Koirasaarentie 2,1,,
+JVP1185,Sotkatie,1,,
+JVP1186,Gyldenintie,,,1
+JVP1187,Seurasaari,1,,
+JVP1202,Kivikontie,1,,
+JVP1205,Ilmalanrinne,1,,
+JVP1206,Merenkulkijankuja,1,,
+JVP2001,Hannuksenpelto,1,,
+JVP2002,Nuottaniementie,1,,
+JVP2003,Matinkylä,,1,
+JVP2004,Iirislahdentie,1,,
+JVP2005,Nokkalanniemi,1,,
+JVP2006,Haukitie,1,,
+JVP2007,Westendintie,,1,
+JVP2008,Liinasaarentie,,1,
+JVP2009,Kanervatie,,1,
+JVP2010,Friisilä,,1,
+JVP2011,Niittykumpu,,1,
+JVP2012,Hakalehto,,,1
+JVP2013,Karhulahti,,1,
+JVP2014,Itäranta,,1,
+JVP2015,Otaniementie,,,1
+JVP2016,Tietotie,,1,
+JVP2017,Kalevalantie,,,1
+JVP2018,Uudenkirkontie,,1,
+JVP2019,Koivistontie,1,,
+JVP2020,Kirvuntie,1,,
+JVP2021,Uuraantie,,1,
+JVP2022,Impilahdentie,,,1
+JVP2023,Ohrakaskenmäki,1,,
+JVP2024,Kokinkylä,,1,
+JVP2025,Koivumankkaa,,,1
+JVP2026,Laurintie,1,,
+JVP2027,Seilimäki,,1,
+JVP2028,Porttikuja,1,,
+JVP2029,Leppäsilta,,1,
+JVP2030,Perkkaa,,1,
+JVP2031,Vermontie,1,,
+JVP2032,uusimäki,1,,
+JVP2033,Myllypuro,,1,
+JVP2034,Martinsillantie,,1,
+JVP2035,Koukkutie,1,,
+JVP2036,Viherlaakso,,1,
+JVP2037,Tammihaantie,1,,
+JVP2038,Järvenperä,,1,
+JVP2039,Hiirihaukankuja,,1,
+JVP2040,Mikkelä,1,,
+JVP2041,Leppäv.urh.puisto,1,,
+JVP2042,Pitkäjärv.ranta etel.,1,,
+JVP2043,Lehtitie,1,,
+JVP2044,Laaksolahdentie,,1,
+JVP2045,Aallokko,1,,
+JVP2046,Pihlajarinne,1,,
+JVP2047,Suomenoja,,,1
+JVP2048,Hannusjärvenmäki,,,1
+JVP2049,Soukka,,1,
+JVP2050,Jokitie,1,,
+JVP2051,Tillintie,1,,
+JVP2052,Koivuniemi,,,1
+JVP2053,Kaskenpolttajantie,,1,
+JVP2054,Tonttutytönkuja,1,,
+JVP2055,Muurala,,1,
+JVP2056,Keilaniementie,,1,
+JVP2057,Riistatie,,,1
+JVP2058,Purotie,1,,
+JVP2059,Kauklahti,,1,
+JVP2060,Muulo,,,1
+JVP2061,Pellaksenmäki,1,,
+JVP2062,Pitkäjärv.ranta pohj.,1,,
+JVP2063,Nimismiehenpelto,1,,
+JVP2064,Keskitie,1,,
+JVP2065,Valkamanraitti,1,,
+JVP2066,Takamaa,,1,
+JVP2067,Kotikyläntie,1,,
+JVP2068,Ankeriaantie,1,,
+JVP2069,Laurinlahdentie,1,,
+JVP2070,Kirkkonummentie,1,,
+JVP2071,Kirkkotie,,1,
+JVP2072,Merenneidonpolku,1,,
+JVP2073,Kiviharjuntie,1,,
+JVP2074,Valovirta,1,,
+JVP2075,Hiirenkorvankuja,1,,
+JVP2076,Järvenperäntie,1,,
+JVP2077,Ståhlentie,1,,
+JVP2078,Nuijalantie,1,,
+JVP2079,Örkkiniityntie,,,1
+JVP2080,Platinatie,1,,
+JVP2081,Meritori,1,,
+JVP2082,Koukkuniemenpolku,1,,
+JVP2083,Nöykkiönniitty,1,,
+JVP2084,Tekniikantie,1,,
+JVP2085,Kukkumäki,1,,
+JVP2086,Peuramäenkuja,1,,
+JVP2087,Puntalanranta,1,,
+JVP2088,Soukanlahdentie,1,,
+JVP2089,Suopuronrinne,1,,
+JVP2090,Hansatie,,,1
+JVP2091,Hyljelahdentie,1,,
+JVP2092,Odilammenranta,,1,
+JVP2093,Kylänaukio,1,,
+JVP2094,Odilammentie,,1,
+JVP2095,Kappelitie,1,,
+JVP2096,Bembölen koulu,1,,
+JVP2097,Kurkijärvi,,1,
+JVP2098,Korpilampi,1,,
+JVP2099,Itsehallintotie,1,,
+JVP2100,Asemanraitti,1,,
+JVP2101,Rullaniementie,1,,
+JVP2102,Hietaniementie,1,,
+JVP2103,Opaalilasintie,1,,
+JVP2104,Lommila,1,,
+JVP2106,Kristallitie,1,,
+JVP2107,Lasilaaksontie,1,,
+JVP2108,Kaitaantie,,,1
+JVP2109,Kulttuuritori,1,,
+JVP2110,Kolmirannantie,,1,
+JVP2111,Kolmperä,,,1
+JVP2112,Ämmässuon risteys,,,1
+JVP2113,Ämmässuon kaatopaikka,,,1
+JVP2114,Pohtimenpolku,1,,
+JVP2115,Saunalahti,,1,
+JVP2116,Puolarmaari 1,1,,
+JVP2117,Finnoonniitty,1,,
+JVP2118,Puolarmaari 2,1,,
+JVP2119,Nygrannaksentie,1,,
+JVP2120,Munkkiranta,1,,
+JVP2121,Siltakatu,1,,
+JVP2122,Tuomarilanrinne,1,,
+JVP2123,Metsänneidonkuja,1,,
+JVP2124,Ruskaniitty,1,,
+JVP2126,Nuottatie,1,,
+JVP2127,Oolarinniityntie,1,,
+JVP2128,Myntinsyrjä,1,,
+JVP2129,Rastaspuisto,,1,
+JVP2130,Juvanportti,1,,
+JVP2131,Isännänpolku,1,,
+JVP2132,Karhusaari,1,,
+JVP2133,Vuohilammentie,1,,
+JVP2134,Riilahdentie,1,,
+JVP2135,Lumivaarantie,1,,
+JVP2136,Luomannotko,1,,
+JVP2137,Mellstenintie,1,,
+JVP2138,Ratalaaksonkuja,1,,
+JVP2139,Punametsä,1,,
+JVP2140,Metsäntorpankuja,1,,
+JVP2141,Tikasniityntie,1,,
+JVP2142,Tikasmäentie,1,,
+JVP2143,Tuomarilanportti,1,,
+JVP2144,Pikkuneva,1,,
+JVP2145,Ruispellontie,1,,
+JVP2146,Makasiinitie,1,,
+JVP2147,Tuurinmäentie,1,,
+JVP2148,Ingaksentie,1,,
+JVP2149,Juvanpuistonkuja,1,,
+JVP2150,Olkiportti,,,1
+JVP2151,Siirtomaidenkuja,1,,
+JVP2152,Muurahaisenkuja,1,,
+JVP2153,Nissinpuisto,1,,
+JVP2154,Engelin puistotie,,1,
+JVP2155,Soukansalmentie,1,,
+JVP2156,Salmenkuja,1,,
+JVP2157,Rummunlyöjänkatu,1,,
+JVP2158,Hiitolantie,1,,
+JVP2159,Karhuniityntie,,1,
+JVP2160,Ratsukatu,1,,
+JVP2161,Kalajärvi,,1,
+JVP2162,Gallen-kallelan tie,1,,
+JVP2163,Nupurintie,1,,
+JVP2164,Dämman,1,,
+JVP2165,Mankinpolku,1,,
+JVP2166,Peuramäentie,1,,
+JVP2167,Parsitie,1,,
+JVP2168,Soukanniementie,1,,
+JVP2170,Kappalaisenkuja,1,,
+JVP2171,Kurtinkuja,1,,
+JVP2172,Kartanonherrantie,1,,
+JVP2174,Kurkijärventie,1,,
+JVP2175,Karhusuo,1,,
+JVP2176,Tollinmäki,1,,
+JVP2177,Kurutie,1,,
+JVP2178,Inglaksenrinne,1,,
+JVP2179,Viisikorpi,1,,
+JVP2180,Fallänginpolku,1,,
+JVP2181,Maarinrannantie,1,,
+JVP2182,Kakkostie,1,,
+JVP2183,Portinvartijantie,1,,
+JVP2184,Karhusuontie,1,,
+JVP2185,Karhuniityntie,1,,
+JVP2186,Nikunmäki,1,,
+JVP2187,Hepokuja,,1,
+JVP2188,Paciuksentie,1,,
+JVP2189,Veikkaustie,1,,
+JVP2190,Nygårdinreitti,1,,
+JVP2191,Voitontie,,1,
+JVP2192,Lehtokukka,1,,
+JVP2193,Hista,,,1
+JVP2194,Brobackaå,1,,
+JVP2195,Lahnus,1,,
+JVP2196,Piilipuuntie,,1,
+JVP2197,Nupurinrinne,1,,
+JVP2198,Vesirattaanmäki,1,,
+JVP2199,Lukusolmu,,,1
+JVP2200,Lumipallonpolku,1,,
+JVP2201,Pitkäniityntie,1,,
+JVP2202,Peruskallionkuja,1,,
+JVP2203,Asgård,1,,
+JVP2204,Tallbohaka,1,,
+JVP2205,Viiriniitty,,,1
+JVP2206,Sarvipöllönpolku,1,,
+JVP2207,Nuuksio 1,,,1
+JVP2208,Nuuksio 2,,,1
+JVP2209,Nuuksio 3,,,1
+JVP2210,Nuuksio 4,1,,
+JVP2211,Keilaniemi 2,1,,
+JVP2212,Matinkylä 2,1,,
+JVP2213,Nuuksio 5,1,,
+JVP2214,Vermontie 2,1,,
+JVP2215,Pitkäjärventie,,,1
+JVP2217,Mankkaa 2,1,,
+JVP2219,Minttupelto,1,,
+JVP2220,Maakauppiaankuja,1,,
+JVP2222,Maarinpuro,1,,
+JVP2223,Rykmentinmäki,1,,
+JVP2225,Mankkaanlaaksontie,1,,
+JVP2227,Nupurinkartanontie,,,1
+JVP2229,Magneettikatu,,1,
+JVP2232,Vihermäki 2,1,,
+JVP2998,Valakuja,,1,
+JVP3001,Solbackantie,,1,
+JVP3002,Kiiltomadonrinne,1,,
+JVP3004,Petikontie,1,,
+JVP3005,Kalkkitie,1,,
+JVP3007,Tavastkulla (Tuko),1,,
+JVP3008,Koivukylän puistotie,1,,
+JVP3009,Vaskipellontie,,1,
+JVP3010,Siikakuja,1,,
+JVP3011,Vanha nurmijärventie,1,,
+JVP3012,Lähdemäentie,1,,
+JVP3014,Kankaantie,1,,
+JVP3015,Vaarala,,,1
+JVP3016,Vihertie,1,,
+JVP3017,Myyrmäki,,,1
+JVP3018,Kustaanmäki,1,,
+JVP3019,Josvankuja,1,,
+JVP3020,Jokivarsi,1,,
+JVP3021,Mikkolanpuisto,,1,
+JVP3022,Rajatorppa,,1,
+JVP3023,Martinlaakso,,1,
+JVP3024,Koisotie,,,1
+JVP3025,Eilantie,,1,
+JVP3026,Ylästöntie,,1,
+JVP3027,Laastikuja,1,,
+JVP3028,Ravuntie,1,,
+JVP3029,Sinisiiventie,1,,
+JVP3030,Pikkujärvi,1,,
+JVP3031,Äyriäisenkuja,,1,
+JVP3032,Nahkiaisentie,1,,
+JVP3034,Sydäntie,1,,
+JVP3035,Nissbackka,1,,
+JVP3037,Voutila,,,1
+JVP3038,Ukonkivenpolku,,1,
+JVP3039,Niittykuja,1,,
+JVP3040,Perhotie,1,,
+JVP3041,Valio,1,,
+JVP3042,Kilterinpuiston,1,,
+JVP3043,Katriinan,1,,
+JVP3044,Kuninkaalantie,1,,
+JVP3045,Linnaistentie,1,,
+JVP3046,Vaunukalliontie,1,,
+JVP3047,Sahamäentie,1,,
+JVP3048,Tuupakka,1,,
+JVP3049,Miekkatie, ,,1
+JVP3050,Ollaksentie,1,,
+JVP3051,Pistiäisenkuja,1,,
+JVP3052,Runkotie,1,,
+JVP3053,Solatie,1,,
+JVP3054,Tuliniementie,1,,
+JVP3055,Santakuopantie,1,,
+JVP3056,Kuhatie,1,,
+JVP3057,Korennontie,,1,
+JVP3058,Angervontie,1,,
+JVP3059,Epinkoskentie,1,,
+JVP3060,Hakkunilan urh.alue,1,,
+JVP3062,Jokiniemi,1,,
+JVP3063,Jänkätie,1,,
+JVP3064,Katriinantie,1,,
+JVP3065,Koivikkotie,1,,
+JVP3066,Kuriiritie vernissa,1,,
+JVP3067,Nurmimäentie,1,,
+JVP3068,Pallastunturinkuja,1,,
+JVP3069,Peltomäentie,1,,
+JVP3070,Prinsessantie,1,,
+JVP3071,Rajatie,1,,
+JVP3072,Silvola/Vetotie,1,,
+JVP3073,Rantapolku,1,,
+JVP3074,Tuulitie,1,,
+JVP3075,Usvatie,1,,
+JVP3077,Vanha Porvoontie,1,,
+JVP3078,Hiekkaharju,1,,
+JVP3079,Hiirisuontie,1,,
+JVP3080,Himalajantie,1,,
+JVP3081,Hirvipolku,1,,
+JVP3084,Kirkkotie,1,,
+JVP3085,Kontiotie,1,,
+JVP3086,Kuriiritie 137,1,,
+JVP3087,Kuusikkotie,1,,
+JVP3088,Kyllikintie,1,,
+JVP3089,Kärppäpolku,1,,
+JVP3091,Moreenitie,1,,
+JVP3092,Norppapolku,1,,
+JVP3093,Porttisuontie,1,,
+JVP3094,Riekkotie,1,,
+JVP3095,Salpakuja,1,,
+JVP3096,Teerimäentie,1,,
+JVP3098,Kuriiritie,1,,
+JVP3100,Askisto,1,,
+JVP3109,Keihästie,1,,
+JVP3110,Tahkotie,1,,
+JVP3111,Josvanpolku,1,,
+JVP3113,Tuijantie,1,,
+JVP3114,Riippakoivunkuja,1,,
+JVP3117,Siikatie,1,,
+JVP3119,Tarjantie,,1,
+JVP3122,Tuupakankuja,1,,
+JVP3124,Silvastadion,1,,
+JVP3125,Kylänpääntie,1,,
+JVP3126,Ritvantie,1,,
+JVP3127,Aimonkuja,1,,
+JVP3128,Messikuja 9,1,,
+JVP3130,Tilkuntie,1,,
+JVP3131,Viilatehdas,1,,
+JVP3132,Kimalaisentie,1,,
+JVP3133,Jahtitie,1,,
+JVP3134,Peuratie,1,,
+JVP3135,Viinikankaari E,1,,
+JVP3136,Viinikankankaari P,1,,
+JVP3137,Yrjänänkuja,1,,
+JVP3138,Merimiehenkuja,1,,
+JVP3139,Murtotie,1,,
+JVP3140,Juuritie,1,,
+JVP3142,Ilponkuja,1,,
+JVP3144,Uranuksentie,1,,
+JVP3145,Toivonrinne,1,,
+JVP3146,Tammistonranta etelä,1,,
+JVP3147,Osterikuja,1,,
+JVP3148,Silvolantie,1,,
+JVP3150,Koivurinne et,1,,
+JVP3153,Koivurinne pohj,1,,
+JVP3155,Tammistonranta pohj,1,,
+JVP3157,Tapparakuja,1,,
+JVP3158,Pitkäsentie,1,,
+JVP3159,Kuusijärvi,1,,
+JVP3160,Tapola,1,,
+JVP3161,Vuorilehdontie,1,,
+JVP3162,Tapolanrinne 6,1,,
+JVP3163,Myllymäki,,,1
+JVP3164,Kotatie 5,,1,
+JVP3165,Tammistonkatu 4,1,,
+JVP3166,Harmaahylkeentie,1,,
+JVP3167,Vasamakuja,1,,
+JVP3169,Satakielentie,1,,
+JVP3170,Kaskikalliontie,1,,
+JVP3171,Kesäkylantie 12,1,,
+JVP3172,Vapaala,,1,
+JVP3173,Pirttiranta,1,,
+JVP3174,Kivimäki,1,,
+JVP3175,Lentäjäntie hk097,,,1
+JVP3176,Blue 1 hk175,1,,
+JVP3177,Energialaitos hk508,1,,
+JVP3178,Liikelentoalue hk072,,,1
+JVP3179,Finavia hk141,,,1
+JVP3180,Finavia hk142,,,1
+JVP3181,Strandkullantie,1,,
+JVP3182,Riipiläntie 74,,,1
+JVP3183,Koivukylänväylä,1,,
+JVP3184,Haukitie 21,,,1
+JVP3188,Porttipolku,,1,
+JVP3190,Karhumäki,,,1
+JVP3191,Kotirannantie,1,,
+JVP3192,Piispankyläntie,1,,
+JVP3193,Långmosseberg,,1,
+JVP3194,Ongenkoukku,1,,
+JVP3195,Klemmintie,1,,
+JVP3196,Pohjois-Kaarelan raitti,1,,
+JVP3197,Kuuselantie,1,,
+JVP3199,Suokallionkuja,,,1
+JVP3201,Varpukalliontie,1,,
+JVP4001,Bembölentie,,1,
+JVP4002,Borgintie,,1,
+JVP4003,Bredantie,,1,
+JVP4004,Jollakuja,1,,
+JVP4005,Terveysasema,,1,
+JVP4006,Yhtiönkuja,1,,
+JVP4007,Yhtiöntie,,,1
+MA1210,Kärri,1,,
+MA1522,Pihlajamäen tulotunneli,,,1
+MA2173,Sarfik,1,,
+MA3104,Köyhämäki,1,,
+MA3105,Haapatie,1,,
+MA3106,Tammisto,1,,
+MA3107,Mailatie,1,,
+MA3108,Länsimäki,1,,
+,,,,
+Summary,,341,67,123
