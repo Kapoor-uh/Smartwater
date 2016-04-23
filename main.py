@@ -17,7 +17,7 @@ cursor = cnxn.cursor()
 rainfall_window = 1
 pumps = parsePumps.ParseHighQualityPumps()
 while rainfall_window <= 4 * 7 * 24:
-	for pump in pumps[0:30]:
+	for pump in pumps[0:40]:
 		cursor = pumpData.getRainfallPumpingOutput(cursor, pump, 0, 24, -rainfall_window, 0)
 		response = cursor.fetchall()
 		response = map(list, zip(*response))
@@ -25,5 +25,5 @@ while rainfall_window <= 4 * 7 * 24:
 		rainfall = response[2]
 		correlation = np.corrcoef(rainfall, flow)[0, 1]
 		print(response[0][0], "window h: ", rainfall_window, "correlation ", round(correlation, 3))
-		plotter.save_figure_pump_rain(flow, rainfall, pump + "-" + str(rainfall_window), 'plots')
+		plotter.save_figure_pump_rain(flow, rainfall, str(rainfall_window) + "h-" + pump, 'plots')
 	rainfall_window *= 2
