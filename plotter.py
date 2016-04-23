@@ -16,6 +16,7 @@ def save_figure_pump_rain(pump,rain,name,folder = None):
     plt.plot(pump,rain,".")
     path = "" if folder==None else folder+"/"
     fig.savefig(path + name+".png")
+    plt.close(fig)
 
 def save_figure_pump_rain_2(vector2s,name,folder = None):
     fig = plt.figure()
@@ -25,6 +26,7 @@ def save_figure_pump_rain_2(vector2s,name,folder = None):
     plt.plot(vector2s[:,0],vector2s[:,1],".")
     path = "" if folder==None else folder+"/"
     fig.savefig(path + name+".png")
+    plt.close(fig)
 
 a = np.arange(10)
 b=a*a
