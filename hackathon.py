@@ -1,14 +1,24 @@
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-def sava_figure_pump_rain(pump,rain,name):
+def ensure_dir(f):
+    c = os.getcwd()
+    d = c+"\\"+f
+    if not os.path.exists(d):
+        os.makedirs(d)
+
+def sava_figure_pump_rain(pump,rain,name,folder = None):
     fig = plt.figure()
-    plt.plot(pump,rain,".",fig=fig)
-    fig.savefig(name+".png")
+    plt.plot(pump,rain,".")
+    path = "" if folder==None else folder+"/"
+    fig.savefig(path + name+".png")
 
 a = np.arange(10)
 b=a*a
-sava_figure_pump_rain(a,b,"pic")
+folder = "folder"
+ensure_dir(folder)
+sava_figure_pump_rain(a,b,"pic",folder)
 
 
 def load_pump_rain_data(file):
