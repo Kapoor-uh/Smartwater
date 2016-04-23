@@ -18,7 +18,7 @@ rainfall_window = 1
 pumps = parsePumps.ParseHighQualityPumps()
 while rainfall_window <= 4 * 7 * 24:
 	for pump in pumps[0:40]:
-		cursor = pumpData.getRainfallPumpingOutput(cursor, pump, 0, 24, -rainfall_window, 0)
+		cursor = pumpData.getRainfallPumpingOutput(cursor, pump, 0, 24, -rainfall_window, 0,4,10)
 		response = cursor.fetchall()
 		response = map(list, zip(*response))
 		flow = response[1]
