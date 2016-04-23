@@ -8,7 +8,7 @@ def ensure_dir(f):
     if not os.path.exists(d):
         os.makedirs(d)
 
-def sava_figure_pump_rain(pump,rain,name,folder = None):
+def save_figure_pump_rain(pump,rain,name,folder = None):
     fig = plt.figure()
     plt.title(name)
     plt.xlabel("pump")
@@ -17,11 +17,22 @@ def sava_figure_pump_rain(pump,rain,name,folder = None):
     path = "" if folder==None else folder+"/"
     fig.savefig(path + name+".png")
 
+def save_figure_pump_rain_2(vector2s,name,folder = None):
+    fig = plt.figure()
+    plt.title(name)
+    plt.xlabel("pump")
+    plt.ylabel("rain")
+    plt.plot(vector2s[:,0],vector2s[:,1],".")
+    path = "" if folder==None else folder+"/"
+    fig.savefig(path + name+".png")
+
 a = np.arange(10)
 b=a*a
+vectors = np.matrix([a,b]).T
 folder = "folder"
 ensure_dir(folder)
-sava_figure_pump_rain(a,b,"pic",folder)
+save_figure_pump_rain(a,b,"pic",folder)
+save_figure_pump_rain_2(vectors,"pic2",folder)
 
 """
 def load_pump_rain_data(file):
