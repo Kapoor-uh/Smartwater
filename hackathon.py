@@ -10,6 +10,9 @@ def ensure_dir(f):
 
 def sava_figure_pump_rain(pump,rain,name,folder = None):
     fig = plt.figure()
+    plt.title(name)
+    plt.xlabel("pump")
+    plt.ylabel("rain")
     plt.plot(pump,rain,".")
     path = "" if folder==None else folder+"/"
     fig.savefig(path + name+".png")
@@ -20,7 +23,7 @@ folder = "folder"
 ensure_dir(folder)
 sava_figure_pump_rain(a,b,"pic",folder)
 
-
+"""
 def load_pump_rain_data(file):
     rows = open(file)
     matrix = np.matrix([[float(number)for number in row.split(" ")] for row in rows[1:]])
@@ -50,7 +53,7 @@ def linear_correlation(pump,rain):
 
 def linear_correlations(pumps,rains):
     return np.matrix([[linear_correlation(pump,rain)] for pump,rain in zip(pumps,rains)])
-
+"""
 
 
 
