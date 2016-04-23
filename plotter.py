@@ -28,6 +28,7 @@ def save_figure_pump_rain_2(vector2s,name,folder = None):
     fig.savefig(path + name+".png")
     plt.close(fig)
 
+"""
 a = np.arange(10)
 b=a*a
 vectors = np.matrix([a,b]).T
@@ -36,7 +37,7 @@ ensure_dir(folder)
 save_figure_pump_rain(a,b,"pic",folder)
 save_figure_pump_rain_2(vectors,"pic2",folder)
 
-"""
+
 def load_pump_rain_data(file):
     rows = open(file)
     matrix = np.matrix([[float(number)for number in row.split(" ")] for row in rows[1:]])
