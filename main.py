@@ -30,4 +30,4 @@ for rainfall_window in [4,8,16,24,48,96,128]:
                 flow_rainfall = zip(*np.array(zip(flow, rainfall))[np.less_equal(flow, threshold)])
                 correlation = np.corrcoef(*flow_rainfall)[0, 1]
                 print(response[0][0], "window h: ", rainfall_window, "correlation ", round(correlation, 3))
-            	plotter.save_figure_pump_rain(flow,rainfall, name=str(rainfall_window) + "h-" + str(rainfall_window_start) + "h-" + pump, folder='plots')
+            	plotter.save_figure_pump_rain(*flow_rainfall, name=str(rainfall_window) + "h-" + str(rainfall_window_start) + "h-" + pump, folder='plots')
