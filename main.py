@@ -18,7 +18,7 @@ rainfall_window = 1
 pumps = parsePumps.ParseHighQualityPumps()
 flow_filter_percentile = 90
 
-for rainfall_window in [4,8,16,24,48,96,128]:
+for rainfall_window in [4,8,16,24,32,48,96,128]:
 	   for pump in pumps[0:40]:
                 rainfall_window_start = rainfall_window/4
             	cursor = pumpData.getRainfallPumpingOutput(cursor, pump, 0, 24, -rainfall_window, -rainfall_window_start,4,10)
