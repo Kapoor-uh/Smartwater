@@ -27,3 +27,4 @@ for rainfall_window in [4,8,16,24,48,96,128]:
 		correlation = np.corrcoef(rainfall, flow)[0, 1]
 		print(response[0][0], "window h: ", rainfall_window, "correlation ", round(correlation, 3))
 		plotter.save_figure_pump_rain(flow,rainfall, name=str(rainfall_window) + "h-" + str(rainfall_window_start) + "h-" + pump, folder='plots')
+		plotter.save_histogram_pump_rain(flow,rainfall, name=str(rainfall_window) + "h-" + str(rainfall_window_start) + "h-" + pump, folder='plots')
